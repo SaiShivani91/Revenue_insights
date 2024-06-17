@@ -28,10 +28,11 @@ Data modelling is mainly useful in establishing relation between various tables.
 
 # Data Analysis Expression (DAX)
 
-DAx is helpful in creating new columns andnew measures which will be useful in dashboard building. 
+DAx is helpful in creating new columns and new measures which will be useful in dashboard building. 
 some of the DAX expressions used in the project are:
 
 wn = WEEKNUM(dim_date[date])  
+
 
 
 The above expression creates a new column consisting of week number.
