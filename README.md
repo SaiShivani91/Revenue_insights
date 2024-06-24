@@ -6,13 +6,14 @@ The techniques implemented in the project are listed below:
 
 - Data Loading
 - Power Query
-- Data Modelling
+- Data Modeling
 - Data Analysis Expression (DAX)
 - Dashbord Building
 
 The tools implemented in the project are listed below:
 
 - PowerBI
+- Excel
 
 # Data Loading
 
@@ -22,7 +23,7 @@ The data is loaded into the PowerBI. The data is converted into table datatype.
 
 Power Query is mainly used for data cleaning or data transformation. Null values are removed in this. Some other column transformations are also performed.
 
-# Data Modelling
+# Data Modeling
 
 Data modelling is mainly useful in establishing relation between various tables. The relation is established over here in the form of star schema. There are two types of tables in the considered data set. They are fact tables and dim tables. In this, the fact tables are placed in the middle and the dim tables are placed to surround them.
 
