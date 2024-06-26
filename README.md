@@ -21,7 +21,7 @@ The data is loaded into the PowerBI. The data is converted into table datatype.
 
 # Power Query
 
-Power Query is mainly used for data cleaning or data transformation. Null values are removed in this. Some other column transformations are also performed.
+Power Query is mainly used for data cleaning or data transformation. Null values are removed in this. Some of the column transformations are also performed.
 
 # Data Modeling
 
